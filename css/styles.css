@@ -1,0 +1,49 @@
+body{
+  background-color: #FFE6F7;
+}
+
+/*
+hr{
+  background-color: inherit;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: medium;
+  height: 0%;
+  width: 5%;
+}
+*/
+
+h1{
+  color: #4C0070;
+  font-style: Georgia;
+}
+
+h2{
+
+  color: #4C0070;
+}
+
+h3{
+  background-color: #FFB9B9;
+  border-radius: 10px;
+  color: #4C0070;
+}
+
+img{
+  height: 200px;
+}
+
+.s:hover{
+  background-color: bisque;
+}
+
+.button{
+  background-color: #FFB9B9;
+  border-radius: 10px;
+  text-align: center;
+
+
+}
+.button:hover{
+  background-color: bisque;
+}
